@@ -1,0 +1,12 @@
+
+Text: Today is the hotest day on planet earth
+Result: 
+		Unigram: [['Today'], ['hotest'], ['day'], ['planet'], ['earth']]
+		Bigram: [['Today', 'hotest'], ['hotest', 'day'], ['day', 'planet'], ['planet', 'earth']]
+		Trigram: [['Today', 'hotest', 'day'], ['hotest', 'day', 'planet'], ['day', 'planet', 'earth']]
+
+Text: Today is the hotest day on planet earth
+Result: 
+		Unigram: [['Today'], ['hotest'], ['day'], ['planet'], ['earth']]
+		Bigram: [['Today', 'hotest'], ['hotest', 'day'], ['day', 'planet'], ['planet', 'earth']]
+		Trigram: [['Today', 'hotest', 'day'], ['hotest', 'day', 'planet'], ['day', 'planet', 'earth']]
